@@ -43,6 +43,7 @@ SENDER_EMAIL_ADDRESS="_______________"
 #COUNTRY_CODE="US"
 #ZIP_CODE="10017"
 #USER_NAME="Jon Snow"
+#SECRET_KEY="super secret"
 ```
 
 ## Usage
